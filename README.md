@@ -5,7 +5,7 @@ O objetivo do projeto é demonstrar conceitos básicos de lógica de programaç�
 
 ## 📷 Preview do Projeto
 
-![Preview da Calculadora](calculadora-preview.png)
+![Preview da Calculadora](calculadora-image.png)
 
 ## 🚀 Funcionalidades
 
