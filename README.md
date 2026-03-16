@@ -24,7 +24,7 @@ O objetivo do projeto é demonstrar conceitos básicos de lógica de programaç�
 
 Acesse o projeto online:
 
-(coloque aqui o link do seu GitHub Pages)
+https://faelferrazdev.github.io/calculadora-html/
 
 ## 👨‍💻 Autor
 
